@@ -25,18 +25,18 @@
   Jupyter Notebook
   Quantum ESPRESSO
 
-  1) Clone the repository
-	    `git clone https://github.com/ACME-group-CMU/Ga2O3_Mg_paper.git
+  1) Clone the repository  
+	    `git clone https://github.com/ACME-group-CMU/Ga2O3_Mg_paper.git  
 		cd Ga2O3_Mg_paper`
 
-  2) Create and activate a conda environment using Mg-Ga2O3_Dependencies.yaml
-	    `conda env create -f Mg-Ga2O3_Dependencies.yaml
+  2) Create and activate a conda environment using Mg-Ga2O3_Dependencies.yaml  
+	    `conda env create -f Mg-Ga2O3_Dependencies.yaml 
 	    conda activate MgGa2O3`
 
-  3) Create a Jupyter kernel for the environment
+  3) Create a Jupyter kernel for the environment  
 	   ` python -m ipykernel install --user --name MgGa2O3 --display-name "MgGa2O3 (Python)"`
 
-  4) Run notebooks in the following order (ensure required changes to file paths in the code are made)
+  4) Run notebooks in the following order (ensure required changes to file paths in the code are made)  
 	    A) Supercell_Generator.ipynb
 		      - Output: supercell structure files.
 	    B) SubStructGen.ipynb
