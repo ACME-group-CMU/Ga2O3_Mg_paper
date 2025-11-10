@@ -20,10 +20,10 @@
 
 ## Reproducing results:
 ### Prerequisites
-  git  
-  conda  
-  Jupyter Notebook  
-  Quantum ESPRESSO  
+  `git` 
+  `conda`  
+  `Jupyter Notebook`  
+  `Quantum ESPRESSO`  
 
   1) Clone the repository  
 	    `git clone https://github.com/ACME-group-CMU/Ga2O3_Mg_paper.git  
