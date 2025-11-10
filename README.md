@@ -25,6 +25,7 @@
   `Jupyter Notebook`  
   `Quantum ESPRESSO`  
 
+###Steps  
   1) Clone the repository  
 	    `git clone https://github.com/ACME-group-CMU/Ga2O3_Mg_paper.git  
 		cd Ga2O3_Mg_paper`
