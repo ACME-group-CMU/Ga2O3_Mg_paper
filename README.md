@@ -54,7 +54,9 @@ This repository contains files and environment specification to reproduce result
 
 6) Use input files to run DFT calculations on Quantum ESPRESSO via `pw.x` or your cluster workflow. Make sure pseudopotentials and paths referenced in the `.in` files are correct for your QE setup.
 
-7) Finally, the `Graphing_DFT_Ga2O3.ipynb` notebook will generate the plots shown in the paper (including SI figures).
+7) Repeat steps 5 and 6 for all % Ga sites substituted for each polymorph
+
+8) Finally, the `Graphing_DFT_Ga2O3.ipynb` notebook will generate the plots shown in the paper (including SI figures).
 
 ## Citation  
   If you use this code or reproduce the results in your own work, please cite:  
